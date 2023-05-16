@@ -14,7 +14,6 @@
 7. The Sharpe Ratio, Step 1: The Average Difference in Daily Returns Stocks vs S&P 500
 8. The Sharpe Ratio, Step 2: Standard Deviation of the Return Difference
 9. Putting it all together
-
 10.Conclusion
 
 # Technology

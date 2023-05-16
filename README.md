@@ -15,3 +15,6 @@ Use pandas to calculate and compare profitability and risk of different investme
 8. The Sharpe Ratio, Step 2: Standard Deviation of the Return Difference
 9. Putting it all together
 10.Conclusion
+
+# Technology
+* Python

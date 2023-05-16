@@ -1,4 +1,4 @@
-# Sharpe-Ratio-Project-Risk-and-Returns
+# Sharpe Ratio: Risk and Returns
 Use pandas to calculate and compare profitability and risk of different investments using the Sharpe Ratio.
 
 # Background
